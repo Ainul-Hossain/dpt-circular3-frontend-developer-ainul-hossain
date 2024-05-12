@@ -1,30 +1,51 @@
-# React + TypeScript + Vite
+# Flight Seacrh Project - Using React and Tailwind
+Provides flight related information after submitting the form.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to run this project ...
+- First clone this repository
+- Then run these command on your terminal :
+  
+  ```bash
+  git clone https://github.com/Ainul-Hossain/dpt-circular3-frontend-developer-ainul-hossain.git
+  ```
+  
+  ```bash
+  cd dpt-circular3-frontend-developer-ainul-hossain/
+  ```
 
-Currently, two official plugins are available:
+  ```bash
+  npm i
+  ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ```bash
+  npm run dev
+  ```
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+**Client:** JavaScript, Typescript, React, Tailwind
 
-- Configure the top-level `parserOptions` property like this:
+**Hosting and Version Control System:** Vercel (Hosting), GIT (Version Control)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Deployment
+
+Run and visit this project at
+
+ [https://flight-search-project.vercel.app/](https://flight-search-project.vercel.app)
+
+
+
+## 🚀 About Completing this Project
+
+It took about 7 hours to complete. But I didn't work continuously. I tried to split all the code into separate components. In all cases I used tailwind css.
+
+Some of my prjects and repositories: 
+
+1. [Sleep Time Music](https://play.google.com/store/apps/details?id=com.codebookit.sleeptimemusic) --- For Zecodeek It and Codebook-it
+2. [MERN Tutorials Blog](https://mern-tutorials-blog-client.vercel.app/)  ---  University Thrid Year Noob Project, but I love this. 
+3. [https://github.com/Ainul-Hossain/JS-REACT-NODE-TUTORIALS-BLOG](https://github.com/Ainul-Hossain/JS-REACT-NODE-TUTORIALS-BLOG)
+
+
+
+
