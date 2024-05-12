@@ -19,7 +19,7 @@ module.exports = {
     'comma-dangle': 0,
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
-    'no-unused-vars': 0,
+    '@typescript-eslint/no-unused-vars': 'warn',
     'quotes': 0,
     'react/self-closing-comp': 0,
     'no-floating-decimal': 0,
